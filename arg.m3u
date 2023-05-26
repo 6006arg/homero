@@ -275,7 +275,10 @@ http://190.119.178.46:8000/play/a034/index.m3u8
 http://45.190.13.50:8002/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://170.83.242.8:5350/play/a00u
+http://200.41.79.165:8000/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
+http://200.41.79.165:8000/play/a05s/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
 http://45.190.13.50:8002/play/a01k/index.m3u8  
