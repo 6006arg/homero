@@ -296,7 +296,7 @@ http://186.31.37.98:8000/play/a008/index.m3u8
 http://45.190.13.50:8002/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 
-http://45.170.241.28:4000/play/a00v/index.m3u8
+http://181.78.11.117:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 2
 http://181.78.75.11:9500/play/a02j/index.m3u8
