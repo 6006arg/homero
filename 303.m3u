@@ -1,28 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,ESPN 2 HD
-http://181.78.21.206:8000/play/a03e/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.78.21.206:8000/play/a03c/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://181.78.21.206:8000/play/a03i/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://181.78.21.206:8000/play/a03r/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.78.21.206:8000/play/a03n/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.78.21.206:8000/play/a036/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.78.21.206:8000/play/a03y/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
-http://181.78.21.206:8000/play/a03j/index.m3u8
-#EXTINF:-1,FX HD
-http://181.78.21.206:8000/play/a03m/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://181.78.21.206:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/311523_2.png" group-title="RADIO", KBS
-https://ythls.onrender.com/channel/UC5BMQOsAB8hKUyHu9KI6yig.m3u8
+
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/311523_2.png" group-title="RADIO", RODRUGU
+http://tvstarlife.com:25461/Rodriguez/2022/92
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/311523_2.png" group-title="FUTBOL ARG", Telecarpincho Sports
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
