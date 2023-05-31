@@ -1273,6 +1273,9 @@ https://stmvideo2.livecastv.com/radioformosa1/radioformosa1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiofenixformosa.com.ar/img/fenixtv.png" group-title="FORMOSA", RADIO FENIX 97.9 FM FORMOSA
 https://videohd.live:19360/8092/8092.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cL6AoX9bvFCeTmK71g0wO52nwdlb7W4_pAxR5DfcenqMzwwLkRZxie-9YgFJa35QI_k=w526-h296-rw" group-title="PCIA BS AS", Línea Directa Radio
+https://stmv1.cnarlatam.com/lineadirectaradio/lineadirectaradio/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1238122166685700096/9Ejo5bYX_400x400.jpg" group-title="SANTA CRUZ", CANAL 9 SANTA CRUZ
 https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
 
