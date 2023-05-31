@@ -732,6 +732,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="ENTRETENIMIENTO", VIAJAR
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e7a5944154f97d7410a425eb27d4522a.png" group-title="ENTRETENIMIENTO", Tango TV 
+https://video.misistemareseller.com/8118/8118/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/gY8H7K-3Eg3olVftRBiqqFe-N5d9Rx90jAsrfQuxDa4m32Wm-kWK6AQJhwchvYLf-H4EjGhCSw=s176-c-k-c0x00ffffff-no-rj" group-title="MUSICA", Lofi Girl
 https://ythls.onrender.com/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8
 
