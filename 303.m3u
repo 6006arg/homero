@@ -5,13 +5,13 @@
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/311523_2.png" group-title="RADIO", RODRUGU
 http://tvstarlife.com:25461/Rodriguez/2022/92
 
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/311523_2.png" group-title="FUTBOL ARG", Telecarpincho Sports
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/311523_2.png" group-title="FUTBOL ARG", LOS 3 GATOS TV Sports
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/311523_2.png" group-title="FUTBOL ARG", Telecarpincho Sports
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/311523_2.png" group-title="FUTBOL ARG", LOS 3 GATOS TV Sports
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
 
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/311523_2.png" group-title="FUTBOL ARG", Telecarpincho Sports 
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/311523_2.png" group-title="FUTBOL ARG", LOS 3 GATOS TV Sports 
 https://edge-vod01-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 
@@ -26,7 +26,7 @@ http://l3d.us:25461/live/JOSECERON/JVfc5p5rEF/210852.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TELECARPINCHO", MasChic
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", MasChic
 https://cotesma02.cdn.rcs.net.ar/mnp/maschic/output.mpd
 
 
