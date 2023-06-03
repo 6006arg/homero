@@ -24,6 +24,9 @@ https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 #EXTINF:-1 tvg-logo="https://tribunoweb.com.ar/wp-content/uploads/2021/05/pluto-tv-telefe-tvlaint.jpg" group-title="FUTBOL ARG", TELEFE DEPORTES
 https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.paste.pics/0e7402074c5a0c79729347bccca02e75.png" group-title="FUTBOL ARG", CMT 
+https://stream-linkyprojects.linky.com.co/hls/cmt.m3u8
+
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="FUTBOL ARG", TyC SPORTS 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
