@@ -257,6 +257,9 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1630774881284653056/odLwe8be_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS 2
 http://181.189.243.254:8000/play/a0on/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png" group-title="EVENTOS DEPORTIVOS", TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="EVENTOS DEPORTIVOS", DIRECTV SPORTS
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
 
