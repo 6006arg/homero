@@ -252,7 +252,7 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TyC SPORTS Internacional
-http://190.83.60.34:1414/play/a04l
+http://181.39.202.98:9993/play/a17z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1630774881284653056/odLwe8be_400x400.jpg" group-title="EVENTOS DEPORTIVOS", CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
@@ -286,10 +286,10 @@ http://181.78.21.206:8000/play/a036/index.m3u8
 http://181.78.21.206:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
-http://200.41.79.165:8000/play/a05s/index.m3u8
+http://181.78.1.217:8146/play/a0cg/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
-http://200.41.79.165:8000/play/a05s/index.m3u8
+http://181.224.201.34:5577/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
 http://181.78.75.11:9500/play/a029/index.m3u8
@@ -333,18 +333,6 @@ http://181.78.21.206:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="EVENTOS DEPORTIVOS", TNT Sports Chile
 http://181.78.24.67:8010/play/a00e/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 1 MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
@@ -359,8 +347,6 @@ http://190.27.253.211:8000/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/200px-Logo_de_FUTV.svg.png" group-title="EVENTOS DEPORTIVOS", FUTV
 http://181.189.243.254:8000/play/a0t3/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://media.tycsports.com/files/2020/11/12/138170/uno-contra-uno_862x485.jpg" group-title="EVENTOS DEPORTIVOS", UNO CONTRA UNO TV
 https://ythls.onrender.com/channel/UCavPXO6_Z2cVjT9OVguwXmg.m3u8
