@@ -1174,6 +1174,9 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png" group-title="CORRIENTES", Maxima TV 
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMAm8aLZNeucBru4D_hHV11at3KvhQSp_F4Kq9H0w=s176-c-k-c0x00ffffff-no-rjg" group-title="CORRIENTES", CHAMAME TV 
+https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="CORRIENTES", CTV CORRIENTES
 https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
 
@@ -1429,6 +1432,9 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w1331069396.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/595606877175689216/x0mTiDts.jpg" group-title="SANTA FE", CABLE IMAGEN ARMSTRONG SANTA FE
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/963930362564038656/ooljnVK7_400x400.jpg" group-title="SANTA FE", FM DIEZ FUNES 93.9
+https://stmvideo2.livecastv.com/fm10funes/fm10funes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://reconquistaradios.com.ar/07-2021/819e41f3276fabde188cf2500c7cbec8.jpg" group-title="SANTA FE", TV 10 RECONQUISTA
 https://panel.dattalive.com/8072/8072/playlist.m3u8
