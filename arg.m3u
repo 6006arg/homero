@@ -434,104 +434,87 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Animal Planet HD
-http://186.101.207.117:9955/play/a0cg/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",AMC HD
-http://186.101.207.117:9955/play/a0ck/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",AXN HD
-http://186.101.207.117:9955/play/a0bv/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",CARTOON NT HD
-http://186.101.207.117:9955/play/a0bd/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Canal Claro HD
-http://186.101.207.117:9955/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Claro Sports 1 HD
-http://186.101.207.117:9955/play/a0ba/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Claro Sports 2 HD
-http://186.101.207.117:9955/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Comedy Central HD
-http://186.101.207.117:9955/play/a0d1/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",DHE HD
-http://186.101.207.117:9955/play/a0cp/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Discovery Channel HD
-http://186.101.207.117:9955/play/a0c6/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Discovery Kids HD
-http://186.101.207.117:9955/play/a0b6/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Discovery World HD
-http://186.101.207.117:9955/play/a0c7/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",E! Entertairment HD
-http://186.101.207.117:9955/play/a0ch/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",ESPN 2 HD
-http://186.101.207.117:9955/play/a0c1/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",ESPN 3 HD
-http://186.101.207.117:9955/play/a0c0/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",ESPN 4 HD
-http://186.101.207.117:9955/play/a0bu/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",ESPN HD
-http://186.101.207.117:9955/play/a0bz/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",FOX SPORTS 2 HD
-http://186.101.207.117:9955/play/a0cw/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",FOX SPORTS 3 HD
-http://186.101.207.117:9955/play/a0c2/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",FX HD
-http://186.101.207.117:9955/play/a0cm/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Film & arts HD
-http://186.101.207.117:9955/play/a0ci/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Golden Premiere 2 HD
-http://186.101.207.117:9955/play/a0b9/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Golden Premiere HD
-http://186.101.207.117:9955/play/a0b8/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Golf Channel HD
-http://186.101.207.117:9955/play/a0cs/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",HBO HD
-http://186.101.207.117:9955/play/a0be/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",HBO Plus HD
-http://186.101.207.117:9955/play/a0bg/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",HBO2 HD
-http://186.101.207.117:9955/play/a0bf/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Home & Health HD
-http://186.101.207.117:9955/play/a0cz/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",RCN Novelas
-http://186.101.207.117:9955/play/a0bl/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",STAR CHANNEL HD
-http://186.101.207.117:9955/play/a0bq/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Sony Movies HD
-http://186.101.207.117:9955/play/a0co/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Studio Universal HD
-http://186.101.207.117:9955/play/a0cf/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",TD+2 HD CR
-http://186.101.207.117:9955/play/a0b4/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",TD+HD CR
-http://186.101.207.117:9955/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",TNT HD
-http://186.101.207.117:9955/play/a0cx/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",TNT Series HD
-http://186.101.207.117:9955/play/a0c5/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Teen Nick HD
-http://186.101.207.117:9955/play/a0ce/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Telemundo HD
-http://186.101.207.117:9955/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Tigo Sports HD
-http://186.101.207.117:9955/play/a0cu/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",UNIVERSAL CINEMA ESTE HD
-http://186.101.207.117:9955/play/a0cb/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",UNIVERSAL COMEDY HD
-http://186.101.207.117:9955/play/a0d8/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",UNIVERSAL CRIME HD
-http://186.101.207.117:9955/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",UNIVERSAL PREMIERE HD
-http://186.101.207.117:9955/play/a0d4/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",UNIVERSAL PREMIERE O HD
-http://186.101.207.117:9955/play/a0d5/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",UNIVERSAL REALITY HD
-http://186.101.207.117:9955/play/a0d6/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",Univision HD
-http://186.101.207.117:9955/play/a0c9/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV",WARNER HD
-http://186.101.207.117:9955/play/a0br/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 1001 ESPN HD
+http://181.78.1.217:8146/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 1002 AXN HD
+http://181.78.1.217:8146/play/a047/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 1003 ESPN 2 HD
+http://181.78.1.217:8146/play/a0cg/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 1005 History Channel HD
+http://181.78.1.217:8146/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 1006 Nick HD
+http://181.78.1.217:8146/play/a06r/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 1007 Sony HD
+http://181.78.1.217:8146/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 1008 Space HD
+http://181.78.1.217:8146/play/a06k/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 1009 STAR CHANNEL HD
+http://181.78.1.217:8146/play/a04c/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 1010 Warner Channel HD
+http://181.78.1.217:8146/play/a046/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 1011 Win Sports HD
+http://181.78.1.217:8146/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 1015 TNT SPORTS HD
+http://181.78.1.217:8146/play/a0at/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 2001 ATRES SERIES HD
+http://181.78.1.217:8146/play/a072/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 2002 Cinemax HD
+http://181.78.1.217:8146/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 2003 Disney HD
+http://181.78.1.217:8146/play/a02a/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 2004 Teen Nick HD
+http://181.78.1.217:8146/play/a0d3/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 2005 El Gourmet HD
+http://181.78.1.217:8146/play/a02j/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 2006 ESPN 3 HD
+http://181.78.1.217:8146/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 2007 Fox Sports 3 HD
+http://181.78.1.217:8146/play/a02d/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 2008 ID HD
+http://181.78.1.217:8146/play/a02h/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 2009 TNT HD
+http://181.78.1.217:8146/play/a02b/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 2011Comedy Central HD
+http://181.78.1.217:8146/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", ,3002 AMC HD
+http://181.78.1.217:8146/play/a0d9/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 3003 Animal Planet HD
+http://181.78.1.217:8146/play/a0d5/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 3004 DHE HD
+http://181.78.1.217:8146/play/a0de/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 3005 E! Entertairment HD
+http://181.78.1.217:8146/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 3005 FX HD
+http://181.78.1.217:8146/play/a0db/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 3006 Europa HD
+http://181.78.1.217:8146/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 3007 Film & arts HD
+http://181.78.1.217:8146/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 3009 A&E HD
+http://181.78.1.217:8146/play/a0cf/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 3010 Studio Universal HD
+http://181.78.1.217:8146/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 3011 Telemundo HD
+http://181.78.1.217:8146/play/a0da/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 4001 Discovery Channel HD
+http://181.78.1.217:8146/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 4002 Discovery ID HD
+http://181.78.1.217:8146/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 4008 Nat Geo HD
+http://181.78.1.217:8146/play/a0dk/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 4009 Paramount HD
+http://181.78.1.217:8146/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 4010 Pasiones HD
+http://181.78.1.217:8146/play/a0cj/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 4011 TNT Series HD
+http://181.78.1.217:8146/play/a0dm/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 4012 Univision HD
+http://181.78.1.217:8146/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", 5006 UNIVERSAL CINEMA HD
+http://181.78.1.217:8146/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS 3 GATOS TV", Discovery World HD
+http://181.78.1.217:8146/play/a0do/index.m3u8
 
 
 
