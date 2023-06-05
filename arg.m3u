@@ -2321,7 +2321,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20221214T044925SQUARE.png_20221214044926.png" group-title="INFANTIL" , duckTV
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AgUx16i.png" group-title="INFANTIL",Canal 74 TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AgUx16i.png" group-title="ENTRETENIMIENTO",Canal 74 TV 
 https://stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/12/super-kaos-tv.png" group-title="INFANTIL" , SUPER KAOS TV
@@ -2596,9 +2596,10 @@ https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="CHILE", 13 DEPORTES 
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8?WebM3UCL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/fe14daf029d32fcab7f6305dc2e7a86e.png" group-title="CHILE", 13 KIDS
+https://dai.google.com/linear/hls/pa/event/LhHrVtyeQkKZ-Ye_xEU75g/stream/b96a5d46-cd85-4b8a-962a-700f5e27551f:DLS/master.m3u8
 
 
 
