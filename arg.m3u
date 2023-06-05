@@ -2374,6 +2374,9 @@ https://amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="ANIME - TEEN", Toonizaki
 https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/fe14daf029d32fcab7f6305dc2e7a86e.png" group-title="ANIME - TEEN", 13 KIDS
+https://dai.google.com/linear/hls/pa/event/LhHrVtyeQkKZ-Ye_xEU75g/stream/b96a5d46-cd85-4b8a-962a-700f5e27551f:DLS/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/dios-te-ve-kids.png?itok=xLOZt-hW" group-title="INFANTIL", DIOS TV VE KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
