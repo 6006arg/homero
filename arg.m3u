@@ -274,16 +274,10 @@ http://190.83.60.34:1414/play/a06b
 http://45.190.13.50:8002/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://181.78.21.206:8000/play/a03n/index.m3u8
+http://181.78.24.187:8006/play/a09w/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
 http://45.190.13.50:8002/play/a01k/index.m3u8 
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://181.78.21.206:8000/play/a036/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://181.78.21.206:8000/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
 http://181.78.1.217:8146/play/a0cg/index.m3u8
@@ -295,13 +289,13 @@ http://181.224.201.34:5577/play/a00l/index.m3u8
 http://181.78.75.11:9500/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
-http://181.78.21.206:8000/play/a03e/index.m3u8
+http://181.78.24.187:8006/play/a006/index.m3u8 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="EVENTOS DEPORTIVOS", ESPN 3
-http://181.78.75.11:9500/play/a02e/index.m3u8
+http://181.78.24.187:8006/play/a067/index.m3u8 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="EVENTOS DEPORTIVOS", ESPN 3
-http://181.78.21.206:8000/play/a03c/index.m3u8
+http://181.78.24.187:8006/play/a067/index.m3u8 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="EVENTOS DEPORTIVOS", ESPN 4 
 http://186.31.37.98:8000/play/a008/index.m3u8
@@ -310,25 +304,28 @@ http://186.31.37.98:8000/play/a008/index.m3u8
 http://45.190.13.50:8002/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="EVENTOS DEPORTIVOS", ESPN 4 
-http://181.78.21.206:8000/play/a03i/index.m3u8
+http://181.78.24.187:8006/play/a06e/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/espnextra.png" group-title="EVENTOS DEPORTIVOS", ESPN EXTRA HD
-http://181.78.21.206:8000/play/a03r/index.m3u8
+http://181.78.24.187:8006/play/a0b2/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_Fox_Sports_Argentina_2023.png/577px-Logo_Fox_Sports_Argentina_2023.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 
 http://181.115.238.188:6100/play/a09v
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_Fox_Sports_Argentina_2023.png/577px-Logo_Fox_Sports_Argentina_2023.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 
+http://181.78.24.187:8006/play/a0ag/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 2
 http://181.78.75.11:9500/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 2
-http://181.78.21.206:8000/play/a03j/index.m3u8
+http://181.78.24.187:8006/play/a06f/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/323px-Fox_Sports_3_Argentina_2023.svg.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 3
 http://181.78.75.11:9500/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/323px-Fox_Sports_3_Argentina_2023.svg.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 3
-http://181.78.21.206:8000/play/a03d/index.m3u8
+http://181.78.24.187:8006/play/a068/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" group-title="EVENTOS DEPORTIVOS", TNT Sports Chile
 http://181.78.24.67:8010/play/a00e/index.m3u8
