@@ -310,8 +310,6 @@ http://181.78.75.11:9500/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/323px-Fox_Sports_3_Argentina_2023.svg.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 3
 http://181.78.75.11:9500/play/a02f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/323px-Fox_Sports_3_Argentina_2023.svg.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 3
-http://181.78.24.187:8006/play/a068/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 1 MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
