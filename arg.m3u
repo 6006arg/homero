@@ -1300,6 +1300,9 @@ https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="CORRIENTES", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICNGOYA.png" group-title="CORRIENTES", CN 10 Goya 
+https://streamcasthd.com:19360/canal10goya/canal10goya.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="SANTA FE", TDC TV SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w790672063.m3u8
 
