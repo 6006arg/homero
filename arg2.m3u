@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/orbe-21.png" group-title="TDA", ORBE 21  21.2
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
@@ -272,6 +274,13 @@ https://ythls.onrender.com/channel/UCJozD5RVug7EZdTjqkGISYQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOILkIFRncpGDdWpOTRlzWdZ-UUGsuNV6sTD7cZ8g=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape
 https://ythls.onrender.com/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", EXTRA TV
+https://ythls.onrender.com/channel/UCy3MW5Goy1epjhvtjalzbKg.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="AMBA", Urbana TeVe 32.2
