@@ -1832,6 +1832,9 @@ https://nd106.republicaservers.com:4433/hls/radioamep/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0LhHPBP/667-Radiocity.png" group-title="JUJUY", RADIOCITY JUJUY
 http://190.52.32.13:1935/CAMARAS/live2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://fmamistad.com.ar/static/custom/logo.png?t=2023-06-10+03%3A03%3A15.950761" group-title="TIERRA DEL FUEGO", FM AMISTAD 93.5
+https://stmvideo1.livecastv.com/ush/ush/playlist.m3u8
+
 
 
 
