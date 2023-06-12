@@ -273,13 +273,13 @@ http://190.83.60.34:1414/play/a06c
 http://190.83.60.34:1414/play/a06b
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://45.190.13.50:8002/play/a01f/index.m3u8
+http://181.119.66.30:8000/play/02/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
 http://181.78.75.11:9500/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
-http://45.190.13.50:8002/play/a01k/index.m3u8 
+http://200.41.79.165:8000/play/a05s/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
 http://181.78.1.217:8146/play/a0cg/index.m3u8
@@ -294,13 +294,13 @@ http://181.78.75.11:9500/play/a029/index.m3u8
 http://181.78.75.11:9500/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="EVENTOS DEPORTIVOS", ESPN 3
-http://181.78.75.11:9500/play/a02e/index.m3u8
+http://191.102.90.97:8000/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="EVENTOS DEPORTIVOS", ESPN 4 
 http://186.31.37.98:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="EVENTOS DEPORTIVOS", ESPN 4 
-http://45.190.13.50:8002/play/a01i/index.m3u8
+http://200.41.79.165:8000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_Fox_Sports_Argentina_2023.png/577px-Logo_Fox_Sports_Argentina_2023.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 
 http://181.115.238.188:6100/play/a09v
