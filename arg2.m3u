@@ -494,6 +494,13 @@ https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1624237646623961088/aEkGbXPS_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0286
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVE4QANzgXzGz73LJphirPDunehTTXLwO7QOPPhtQ=s88-c-k-c0x00ffffff-no-rj"  group-title="TUCUMAN", AMERICA TUCUMAN
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
@@ -937,6 +944,9 @@ https://videohd.live:19360/8018/8018.m3u8
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
+https://ythls.onrender.com/channel/UCqcRu9coKWnbrr1Ooj354PQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.diariopanorama.com/img/2020/logo-navidad2021.png" group-title="SANTIAGO DEL ESTERO", DIARIO PANORAMA SANTIAGO DEL ESTERO
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
@@ -967,11 +977,17 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="CHACO", 9LINK CHACO
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZWa3O9YTOLXsEjR9CHoda8mjmarHy85WflIi3WZMdtLXB0z29fDbQ5DpkPINTncg10rmt15hlQ=s176-c-k-c0x00ffffff-no-rj" group-title="CHACO", NG FEDERAL CHACO
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iGAbw0EcsH5bVSdEpsBRyix0FVRuxTWA32wR2swu8uwmLK2qhKxuge273Z7SB70TF9EhoedcuA=s176-c-k-c0x00ffffff-no-rj" group-title="CHACO", NG FEDERAL CHACO
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iGAbw0EcsH5bVSdEpsBRyix0FVRuxTWA32wR2swu8uwmLK2qhKxuge273Z7SB70TF9EhoedcuA=s176-c-k-c0x00ffffff-no-rj" group-title="CHACO", NG FEDERAL CHACO
+https://ythls.onrender.com/channel/UCx7nK6N8gQXhSLQGWHmKO_A.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455166476847960064/y5Q8o6NU_400x400.jpg" group-title="CHACO", CHACO TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455166476847960064/y5Q8o6NU_400x400.jpg" group-title="CHACO", CHACO TV
+https://ythls.onrender.com/channel/UCPmnk6gpje7qhq2eaAwtsMQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1374019613231579138/8hXClQRl_400x400.jpg" group-title="CHACO", CIUDAD TV CHACO
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w594189072.m3u8
@@ -1015,8 +1031,9 @@ https://streamcasthd.com:19360/canal10goya/canal10goya.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="SANTA FE", TDC TV SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w790672063.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NNKwN__O6ow/XjtC-7aspzI/AAAAAAAAvo0/v09wOJBPPlUnV3i75aEZ-ffQbViAKoXJACK8BGAsYHg/s0/2020-02-05.png" group-title="CHUBUT", Canal 12 PUERTO MADRYN
+#EXTINF:-1 tvg-logo="https://canal12web.com/wp-content/uploads/2022/07/cropped-Logo-12-Web-OK-1-150x150.png?v=1659038912" group-title="CHUBUT", Canal 12 PUERTO MADRYN
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/chunklist_w1837605383.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL 9 RIO CUARTO
 https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
@@ -1375,7 +1392,7 @@ https://stmvideo1.livecastv.com/griffa/griffa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1" group-title="AMBA", RBD RADIO
 https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiokaizen.com.ar/images/logo.png" group-title="CHUBUT", FM KAIZEN 103.5 TRELEW
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOkSVI7YTJlTwRvuA6tbs-5Tjn3A0QL0jsCVj_1DA=s176-c-k-c0x00ffffff-no-rj" group-title="CHUBUT", FM KAIZEN 103.5 TRELEW
 https://vivo.solumedia.com:19360/kaizen/kaizen.m3u8
 
 #EXTINF:-1 tvg-logo="http://bahiahost.com.ar/appstore/wp-content/uploads/2020/11/img-play-logo.png" group-title="LA PAMPA", FM 95.1 ADELA LA PAMPA
@@ -1522,7 +1539,7 @@ https://coopmorteros.online/radiorepublica/canal01.m3u8
 #EXTINF:-1 tvg-logo="https://laradio1047.com.ar/images/logo_top.png" group-title="CHACO", LA RADIO FM 104.7 FM RESISTENCIA CHACO
 https://vivo.solumedia.com:19360/chaco/chaco.m3u8
 
-#EXTINF:-1 tvg-logo="https://master.com.ar/wp-content/uploads/elementor/thumbs/marca-blanca-podihnkfd02iuyv0lk14uhhag4t6qhoes00104en0g.png" group-title="CHACO", MASTERS FM 89.9 RESISTENCIA
+#EXTINF:-1 tvg-logo="https://master.com.ar/wp-content/uploads/marca.png" group-title="CHACO", MASTERS FM 89.9 RESISTENCIA
 https://streamlov.alsolnet.com/radiomasterfm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
@@ -1563,6 +1580,8 @@ http://190.52.32.13:1935/CAMARAS/live2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmamistad.com.ar/static/custom/logo.png?t=2023-06-10+03%3A03%3A15.950761" group-title="TIERRA DEL FUEGO", FM AMISTAD 93.5
 https://stmvideo1.livecastv.com/ush/ush/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNp-CKND2ESAca1fi_Od3bYcPW2lQx2kpnP-9Nj4w=s176-c-k-c0x00ffffff-no-rj" group-title="SANTA FE",  CADENA 3 SANTA FE
@@ -1631,7 +1650,7 @@ https://ythls.onrender.com/channel/UC0OVYMS8DI2yIxopup6DFwA.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/KfPHzhpe7ViArc52b9HTpNJIjRbTSksMJw8q9ZtMTKdLSODex18qQfYfDnEcQV1vUFzRO646_Zs=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", FM Imagen 92.5
 https://ythls.onrender.com/channel/UC6CnZ3Yw2LMlEStiaK-I8mA.m3u8
 
-#EXTINF:-1 tvg-logo="https://ondafm.com.ar/wp-content/uploads/2020/07/radio7258_1568380382.jpg" group-title="CHUBUT", Onda fm 94.3
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMlPi0Xxcko25BdAXoQGuqlhRRONEP8mNzeHOAzLQ=s176-c-k-c0x00ffffff-no-rj" group-title="CHUBUT", Onda fm 94.3
 https://ythls.onrender.com/channel/UCdt3k263GKb3Ua6tCMaQEVg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tjkAsX3xKROi9W558RKpI_CUwHiknuQXTTYHeqFPdu-BuBvHzToha9X26BXt34I7yiFy48EsBw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Pilar Play
@@ -1742,7 +1761,7 @@ https://ythls.onrender.com/channel/UCQRV7jNXdt2zuQouqgPmDYQ.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOZ-9_Nn2PnYjP3k0v2Z3ZZwXhb3dmNsAogYwvb=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS",  Diario Democracia 
 https://ythls.onrender.com/channel/UCFqHDnq5_kTO79wyieyfrOQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNXyv-IgMlfw3owp374RPD4cAy56NJ_qcSz3k4=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS",  FM IMPACTO VILLA GESELL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNXyv-IgMlfw3owp374RPD4cAy56NJ_qcSz3k4=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS",  FM IMPACTO VILLA GESELL 
 https://ythls.onrender.com/channel/UC-DJvUKmc5a6mUJukaclvVQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PeEMdmE06pYFmcmtyeaKBvlnG2hITUHJX-1yJdc4_GamWfs3VrOXsc1QitqT7MIF9KxspSG3dg=s176-c-k-c0x00ffffff-no-rj" group-title="NEUQUEN",  Urbana Zapala
@@ -1777,6 +1796,18 @@ https://ythls.onrender.com/channel/UCMbQq-58AN8vmEgkcjiTI6A.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yZPJaPB2lCWnM6y4WhONCrJPqjSFk6LvEzdn4h8j8JXRDHUO3j_cdDWkqqA9ZcShj_WgctXaCA=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA",  Fm El Talar 
 https://ythls.onrender.com/channel/UC-K0CmTEnwR-jc57ZnpVLYw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPbKE49pR7iYQ6Cta7P-9ZANdYI21Xfc0KfwbSjSg=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Suquía
+https://ythls.onrender.com/channel/UCcl6jt4C1zpWjYsOHhDjNhQ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kcEr4FvNet3guqB0uUJn6n2zYEzGBb44gTfY8THKzTjzW-IIYptRzsmtNv6oa0LSQh-BnafOOw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Fm Fenix 100.3 de Martinez
+https://ythls.onrender.com/channel/UCR41kqe76iwVWMIekpWGfCg.m3u8
+
+
+
+
+
 
 
 
