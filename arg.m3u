@@ -1648,7 +1648,7 @@ https://stmvideo1.livecastv.com/griffa/griffa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1" group-title="AMBA", RBD RADIO
 https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiokaizen.com.ar/images/logo.png" group-title="CHUBUT", FM KAIZEN 103.5 TRELEW
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOkSVI7YTJlTwRvuA6tbs-5Tjn3A0QL0jsCVj_1DA=s176-c-k-c0x00ffffff-no-rj" group-title="CHUBUT", FM KAIZEN 103.5 TRELEW
 https://vivo.solumedia.com:19360/kaizen/kaizen.m3u8
 
 #EXTINF:-1 tvg-logo="http://bahiahost.com.ar/appstore/wp-content/uploads/2020/11/img-play-logo.png" group-title="LA PAMPA", FM 95.1 ADELA LA PAMPA
@@ -1906,7 +1906,7 @@ https://ythls.onrender.com/channel/UC0OVYMS8DI2yIxopup6DFwA.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/KfPHzhpe7ViArc52b9HTpNJIjRbTSksMJw8q9ZtMTKdLSODex18qQfYfDnEcQV1vUFzRO646_Zs=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", FM Imagen 92.5
 https://ythls.onrender.com/channel/UC6CnZ3Yw2LMlEStiaK-I8mA.m3u8
 
-#EXTINF:-1 tvg-logo="https://ondafm.com.ar/wp-content/uploads/2020/07/radio7258_1568380382.jpg" group-title="CHUBUT", Onda fm 94.3
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMlPi0Xxcko25BdAXoQGuqlhRRONEP8mNzeHOAzLQ=s176-c-k-c0x00ffffff-no-rj" group-title="CHUBUT", Onda fm 94.3
 https://ythls.onrender.com/channel/UCdt3k263GKb3Ua6tCMaQEVg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tjkAsX3xKROi9W558RKpI_CUwHiknuQXTTYHeqFPdu-BuBvHzToha9X26BXt34I7yiFy48EsBw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Pilar Play
