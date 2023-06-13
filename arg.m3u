@@ -1239,11 +1239,17 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="CHACO", 9LINK CHACO
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZWa3O9YTOLXsEjR9CHoda8mjmarHy85WflIi3WZMdtLXB0z29fDbQ5DpkPINTncg10rmt15hlQ=s176-c-k-c0x00ffffff-no-rj" group-title="CHACO", NG FEDERAL CHACO
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iGAbw0EcsH5bVSdEpsBRyix0FVRuxTWA32wR2swu8uwmLK2qhKxuge273Z7SB70TF9EhoedcuA=s176-c-k-c0x00ffffff-no-rj" group-title="CHACO", NG FEDERAL CHACO
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iGAbw0EcsH5bVSdEpsBRyix0FVRuxTWA32wR2swu8uwmLK2qhKxuge273Z7SB70TF9EhoedcuA=s176-c-k-c0x00ffffff-no-rj" group-title="CHACO", NG FEDERAL CHACO
+https://ythls.onrender.com/channel/UCx7nK6N8gQXhSLQGWHmKO_A.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455166476847960064/y5Q8o6NU_400x400.jpg" group-title="CHACO", CHACO TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455166476847960064/y5Q8o6NU_400x400.jpg" group-title="CHACO", CHACO TV
+https://ythls.onrender.com/channel/UCPmnk6gpje7qhq2eaAwtsMQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1374019613231579138/8hXClQRl_400x400.jpg" group-title="CHACO", CIUDAD TV CHACO
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w594189072.m3u8
@@ -1795,7 +1801,7 @@ https://coopmorteros.online/radiorepublica/canal01.m3u8
 #EXTINF:-1 tvg-logo="https://laradio1047.com.ar/images/logo_top.png" group-title="CHACO", LA RADIO FM 104.7 FM RESISTENCIA CHACO
 https://vivo.solumedia.com:19360/chaco/chaco.m3u8
 
-#EXTINF:-1 tvg-logo="https://master.com.ar/wp-content/uploads/elementor/thumbs/marca-blanca-podihnkfd02iuyv0lk14uhhag4t6qhoes00104en0g.png" group-title="CHACO", MASTERS FM 89.9 RESISTENCIA
+#EXTINF:-1 tvg-logo="https://master.com.ar/wp-content/uploads/marca.png" group-title="CHACO", MASTERS FM 89.9 RESISTENCIA
 https://streamlov.alsolnet.com/radiomasterfm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
