@@ -1209,6 +1209,9 @@ https://videohd.live:19360/8018/8018.m3u8
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="RIO NEGRO", CANAL 10 RIO NEGRO
+https://ythls.onrender.com/channel/UCqcRu9coKWnbrr1Ooj354PQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.diariopanorama.com/img/2020/logo-navidad2021.png" group-title="SANTIAGO DEL ESTERO", DIARIO PANORAMA SANTIAGO DEL ESTERO
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
