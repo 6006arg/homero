@@ -4,6 +4,10 @@
 http://185.246.209.109:8080/UNIVISION/tracks-v1a1/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Noticias", univision
+http://45.190.13.50:8002/play/a00r/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9
 https://ythls.onrender.com/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
 
