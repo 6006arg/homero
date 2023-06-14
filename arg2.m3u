@@ -464,35 +464,39 @@ https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teveodigital.tv/wp-content/uploads/2022/07/logoweb.png" group-title="AMBA", TEVEO DIGITAL
 https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPtBSulaRa3wcEHIwgBrpEkTPbbFuvVR7wAGdeT=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", ECO MEDIOS
+http://ythls.onrender.com/channel/UCIoNMC1V8SQ6gPcyoPj7aIw.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiogenesis970.com/imgs/logo.png" group-title="AMBA", RADIO GENESIS AM 970
+https://radiolinks.click/hls/genesis.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPuaR-cF115MVkHXUqpixInI7ocPpKw4UYVk-GpoA=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", Gobierno de la Provincia de Buenos Aires
 https://ythls.onrender.com/channel/UCRuY8kHZHaiqAAdjcgobsNw.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065218196142284801/bzqyl5rf_400x400.jpg" group-title="PCIA BS AS", TELEFE BAHIA BLANCA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0083
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0086
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0148
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0151
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
 https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065936054329507842/qisXOk-J_400x400.jpg" group-title="SALTA", TELEFE SALTA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0230
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0233
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065936054329507842/qisXOk-J_400x400.jpg" group-title="SALTA", TELEFE SALTA
 https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0281
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0284
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
 https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1624237646623961088/aEkGbXPS_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0286
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0289
 
 
 
