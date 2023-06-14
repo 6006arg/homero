@@ -729,8 +729,11 @@ https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teveodigital.tv/wp-content/uploads/2022/07/logoweb.png" group-title="AMBA", TEVEO DIGITAL
 https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPtBSulaRa3wcEHIwgBrpEkTPbbFuvVR7wAGdeT=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", ECO MEDIOS
+http://ythls.onrender.com/channel/UCIoNMC1V8SQ6gPcyoPj7aIw.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://radiogenesis970.com/imgs/logo.png" group-title="AMBA", RADIO GENESIS AM 970
+https://radiolinks.click/hls/genesis.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPuaR-cF115MVkHXUqpixInI7ocPpKw4UYVk-GpoA=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", Gobierno de la Provincia de Buenos Aires
 https://ythls.onrender.com/channel/UCRuY8kHZHaiqAAdjcgobsNw.m3u8
