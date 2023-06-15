@@ -274,7 +274,7 @@ http://190.83.60.34:1414/play/a06c
 http://190.83.60.34:1414/play/a06b
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://181.119.66.30:8000/play/02/index.m3u8
+http://206.1.95.10:8001/play/espn
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
 http://181.78.75.11:9500/play/a03c/index.m3u8
@@ -295,7 +295,7 @@ http://181.78.75.11:9500/play/a029/index.m3u8
 http://181.78.75.11:9500/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="EVENTOS DEPORTIVOS", ESPN 3
-http://191.102.90.97:8000/play/a079/index.m3u8
+http://201.219.247.118:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="EVENTOS DEPORTIVOS", ESPN 4 
 http://186.31.37.98:8000/play/a008/index.m3u8
