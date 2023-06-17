@@ -2394,8 +2394,11 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/4c70de96328fd1d989b52e40b4ad3a41.png" group-title="ANIME - TEEN", Modoradio TV
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4b8fc07c5509133947987dc74a770eab.png" group-title="ANIME - TEEN", Energeek Fanpop TV
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/4a15cf6d76aaf3246f3a6cedd48e0ac9.png" group-title="ANIME - TEEN", Energeek Radio TV
+https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/logos-tv.png" group-title="INFANTIL", LOGOS TV KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w1199347001.m3u8
@@ -2427,11 +2430,10 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-chno="4130" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20230412T042445SQUARE.png_20230412042445.png" group-title="ANIME - TEEN" , Teen Vee
 https://amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveespanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFJ0Gr8.jpg" group-title="ANIME - TEEN", Toonizaki
-https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fe14daf029d32fcab7f6305dc2e7a86e.png" group-title="ANIME - TEEN", 13 KIDS
-https://dai.google.com/linear/hls/pa/event/LhHrVtyeQkKZ-Ye_xEU75g/stream/b96a5d46-cd85-4b8a-962a-700f5e27551f:DLS/master.m3u8
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/dios-te-ve-kids.png?itok=xLOZt-hW" group-title="INFANTIL", DIOS TV VE KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
