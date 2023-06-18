@@ -82,14 +82,7 @@ https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
 #EXTINF:-1 tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" group-title="FUTBOL ARG", LA PODEROSA TV
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="FUTBOL ARG", CIUDAD MAGICA TV  
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d60c9f34721920d05ee4a6f098fd933a.png" group-title="FUTBOL ARG", Diti TV
-https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
-  
-#EXTINF:-1 tvg-logo="https://i.paste.pics/0e7402074c5a0c79729347bccca02e75.png" group-title="FUTBOL ARG", CMT 
-https://stream-linkyprojects.linky.com.co/hls/cmt.m3u8
 
 
 
