@@ -2853,26 +2853,26 @@ https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/689831249914007552/csDAsUON_400x400.jpg" group-title="BOLIVIA", TVU LP HD
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_FHD.png" group-title="BOLIVIA", SEO TV FHD
-https://live.seo.tv.bo/live/FHD.m3u8
+#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_FHD.png" group-title="BOLIVIA", SEO TV FHD *
+https://live.seo.tv.bo/live/1SEO.m3u8
   
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_KIDS_FHD.png" group-title="BOLIVIA", SEO TV KIDS FHD
-https://seo.tv.bo/tv/q2KIDS.m3u8
+https://live.seo.tv.bo/live/2SEO.m3u8
   
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_NOVELAS_FHD.png" group-title="BOLIVIA", SEO TV NVLS FHD
-https://seo.tv.bo/tv/q3NVLS.m3u8
+https://live.seo.tv.bo/live/3SEO.m3u8
   
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_PELICULAS_FHD.png" group-title="BOLIVIA", SEO TV PELICULAS FHD
-https://live.seo.tv.bo/live/FHDpe.m3u8
+https://live.seo.tv.bo/live/4SEO.m3u8
   
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_FHD.png" group-title="BOLIVIA", SEO TV 5 DEPORTES FHD
-https://live.seo.tv.bo/live/5FHD.m3u8
+https://live.seo.tv.bo/live/5SEO.m3u8
   
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_6_FHD.png" group-title="BOLIVIA", SEO TV 6 FHD
-https://live.seo.tv.bo/live/6FHD.m3u8
+https://live.seo.tv.bo/live/6SEO.m3u8
   
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_7_FHD.png" group-title="BOLIVIA", SEO TV 7 FHD
-https://seo.tv.bo/tv/q7SEO.m3u8
+https://live.seo.tv.bo/live/7SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1308041179683008512/dLYDHsda_400x400.jpg" group-title="BOLIVIA", XTO HD
 http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
