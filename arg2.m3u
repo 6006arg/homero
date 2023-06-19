@@ -481,6 +481,12 @@ https://ythls.onrender.com/channel/UCRuY8kHZHaiqAAdjcgobsNw.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065218196142284801/bzqyl5rf_400x400.jpg" group-title="PCIA BS AS", TELEFE BAHIA BLANCA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0086
 
+#EXTINF:-1 tvg-logo="https://noticiasdoce.com.ar/logofooter.png" group-title="PCIA BS AS", CANAL 12 TRENQUE LAUQUEN 
+https://ythls.onrender.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal.mdp.edu.ar/img/canal28.png" group-title="PCIA BS AS", UNMDP TV
+https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x7kvvgi/index.m3u8
+
 
 
 
@@ -493,6 +499,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0152
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
 https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CORDOBA" , EL DOCE CORDOBA
+https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D4dJktBXZr-HJd69IiAtn-013T2XheGAGTzZd9wIYrMydNa0EYHWCikOEFbuvdGyntpG4H8I9w=s88-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ONCE TV PARANA
@@ -501,8 +510,16 @@ https://ythls.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s176-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", EL SIETE MENDOZA
+https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517580078317776899/48wDIjEZ_400x400.jpg" group-title="MENDOZA", ACEQUIA TV
 https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.misionesonline.news/wp-content/uploads/2022/12/logomol-1-4-2.png" group-title="MISIONES", MISIONES ONLINE
+https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x7zlqfx/index.m3u8
 
 
 
@@ -539,28 +556,6 @@ https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVE4QANzgXzGz73LJphirPDunehTTXLwO7QOPPhtQ=s88-c-k-c0x00ffffff-no-rj"  group-title="TUCUMAN", AMERICA TUCUMAN
-https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://noticiasdoce.com.ar/logofooter.png" group-title="PCIA BS AS", CANAL 12 TRENQUE LAUQUEN 
-https://ythls.onrender.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CORDOBA" , EL DOCE CORDOBA
-https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-tA30i615UkGDDL-NfvfMx8eV0LqTj3ely88Ijg8LsKe-y7FelHARDgjOsSsgtgt5Gf8sGvG=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", LA GACETA PLAY
-https://ythls.onrender.com/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s176-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", EL SIETE MENDOZA
-https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
-
 #EXTINF:-1 tvg-logo="https://canal10tucuman.com.ar/wp-content/uploads/2023/05/Logo-272x90-01.png" group-title="TUCUMAN", CANAL 10 TUCUMAN
 https://corsproxy.io/?http://heroem3u.epizy.com/embed/10tucuman/index.m3u8
 
@@ -570,11 +565,31 @@ https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1620614703809429505/cJZ1Xthm_400x400.jpg" group-title="TUCUMAN", EL OCHO TUCUMAN
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal.mdp.edu.ar/img/canal28.png" group-title="PCIA BS AS", UNMDP TV
-https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x7kvvgi/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVE4QANzgXzGz73LJphirPDunehTTXLwO7QOPPhtQ=s88-c-k-c0x00ffffff-no-rj"  group-title="TUCUMAN", AMERICA TUCUMAN
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.misionesonline.news/wp-content/uploads/2022/12/logomol-1-4-2.png" group-title="MISIONES", MISIONES ONLINE
-https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x7zlqfx/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-tA30i615UkGDDL-NfvfMx8eV0LqTj3ely88Ijg8LsKe-y7FelHARDgjOsSsgtgt5Gf8sGvG=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", LA GACETA PLAY
+https://ythls.onrender.com/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
