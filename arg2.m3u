@@ -468,12 +468,24 @@ http://ythls.onrender.com/channel/UCIoNMC1V8SQ6gPcyoPj7aIw.m3u8
 https://radiolinks.click/hls/genesis.m3u8
 
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPuaR-cF115MVkHXUqpixInI7ocPpKw4UYVk-GpoA=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", Gobierno de la Provincia de Buenos Aires
 https://ythls.onrender.com/channel/UCRuY8kHZHaiqAAdjcgobsNw.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065218196142284801/bzqyl5rf_400x400.jpg" group-title="PCIA BS AS", TELEFE BAHIA BLANCA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0086
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0152
@@ -481,11 +493,30 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0152
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
 https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D4dJktBXZr-HJd69IiAtn-013T2XheGAGTzZd9wIYrMydNa0EYHWCikOEFbuvdGyntpG4H8I9w=s88-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ONCE TV PARANA
+https://ythls.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517580078317776899/48wDIjEZ_400x400.jpg" group-title="MENDOZA", ACEQUIA TV
+https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065936054329507842/qisXOk-J_400x400.jpg" group-title="SALTA", TELEFE SALTA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0236
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065936054329507842/qisXOk-J_400x400.jpg" group-title="SALTA", TELEFE SALTA
 https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0288
@@ -499,23 +530,24 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0294
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVE4QANzgXzGz73LJphirPDunehTTXLwO7QOPPhtQ=s88-c-k-c0x00ffffff-no-rj"  group-title="TUCUMAN", AMERICA TUCUMAN
-https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="SAN JUAN", CANAL 8 SAN JUAN 
 https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es" group-title="SAN JUAN", CANAL 13 SAN JUAN
 https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D4dJktBXZr-HJd69IiAtn-013T2XheGAGTzZd9wIYrMydNa0EYHWCikOEFbuvdGyntpG4H8I9w=s88-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ONCE TV PARANA
-https://ythls.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517580078317776899/48wDIjEZ_400x400.jpg" group-title="MENDOZA", ACEQUIA TV
-https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVE4QANzgXzGz73LJphirPDunehTTXLwO7QOPPhtQ=s88-c-k-c0x00ffffff-no-rj"  group-title="TUCUMAN", AMERICA TUCUMAN
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://noticiasdoce.com.ar/logofooter.png" group-title="PCIA BS AS", CANAL 12 TRENQUE LAUQUEN 
 https://ythls.onrender.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q.m3u8
