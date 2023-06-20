@@ -256,15 +256,7 @@ http://181.189.243.254:8000/play/a0on/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png" group-title="EVENTOS DEPORTIVOS", TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="EVENTOS DEPORTIVOS", DIRECTV SPORTS
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/612.png" group-title="EVENTOS DEPORTIVOS", DIRECTV SPORTS 2
-http://190.83.60.34:1414/play/a06c
-
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1613.png" group-title="EVENTOS DEPORTIVOS", DIRECTV SPORTS +
-http://190.83.60.34:1414/play/a06b
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
 http://181.78.75.11:9500/play/a03c/index.m3u8
