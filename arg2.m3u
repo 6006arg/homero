@@ -1419,6 +1419,12 @@ https://panel.dattalive.com/8108/8108/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="PCIA BS AS", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8  
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409890156878995458/UgjAFp-f_400x400.jpg" group-title="PCIA BS AS", RADIO ETER MAR DEL PLATA
+https://videostream.shockmedia.com.ar:19360/radioetermdp/radioetermdp.m3u8
+
+#EXTINF:-1 tvg-logo="https://vorterixmardelplata.com.ar/wp-content/uploads/2021/07/vorterix.png"  group-title="PCIA BS AS", VORTERIX MAR DEL PLATA
+https://vivo.solumedia.com:19360/vorterixmdp/vorterixmdp.m3u8
+
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="SAN JUAN", FM LIGHT 97.3 SAN JUAN
 https://videostream.shockmedia.com.ar:19360/lightfm/lightfm.m3u8
 
