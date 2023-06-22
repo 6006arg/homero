@@ -587,6 +587,15 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU" group-title="ENTRE RIOS", CANAL 5 TV COLONIA AVELLANEDA ENTRE RIOS
 https://srv5.zcast.com.br/multimediosca/multimediosca/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="ENTRE RIOS", 6 ENTRE RIOS TV
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiogualeguay.com.ar/img/AM.png" group-title="ENTRE RIOS", LT38 RADIO GUALEGUAY
+https://videostream.shockmedia.com.ar:19360/radiogualeguay/radiogualeguay.m3u8
+
+
+
+
 
 
 
@@ -725,7 +734,11 @@ https://vivo.solumedia.com:19360/radiosalta/radiosalta.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="SAN JUAN", CANAL 8 SAN JUAN 
+https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es" group-title="SAN JUAN", CANAL 13 SAN JUAN
+https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8 
 
 
 
@@ -749,12 +762,38 @@ https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8aobf1/index.m3u8
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=CAU" group-title="SANTA FE", SANTA FE CANAL
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="SAN JUAN", CANAL 8 SAN JUAN 
-https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="SANTA FE", LITUS TV SANTA FE
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es" group-title="SAN JUAN", CANAL 13 SAN JUAN
-https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="SANTA FE", AIRE DE SANTA FE
+https://ny1.stweb.tv/airedigital/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTPfTkA3jrPn9lXVSjs27W90b19I6eztjrsEBcBM8RLkKSkFatdR1HLNDgLqQfjWU790&usqp=CAU" group-title="SANTA FE", CANAL 5 ALCORTA SANTA FE
+https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vkXZdKTUiY8/X_IMq18-gxI/AAAAAAAA82k/4X2wus-6Pu0jJHKYjD2w66TpPqVoRk_IwCK8BGAsYHg/s0/2021-01-03.png" group-title="SANTA FE", Link TV 
+https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.12informa.com.ar/wp-content/uploads/2020/07/logocanal12.png" group-title="SANTA FE", CANAL 12 VENADO TUERTO
+https://nd106.republicaservers.com/hls/diegologonitv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="SANTA FE", PLAY TELEVISION SANTA FE
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://nuevomundotv.com.ar/images/logonm.svg" group-title="SANTA FE", NUEVO MUNDO CARCARAÑA
+https://tecnica.nuevomundotv.com.ar:446/hls/canal10.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -867,35 +906,8 @@ https://stmv1.cnarlatam.com/cadenavivo/cadenavivo/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=CAU" group-title="SANTA FE", SANTA FE CANAL
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="SANTA FE", LITUS TV SANTA FE
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="SANTA FE", AIRE DE SANTA FE
-https://ny1.stweb.tv/airedigital/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTPfTkA3jrPn9lXVSjs27W90b19I6eztjrsEBcBM8RLkKSkFatdR1HLNDgLqQfjWU790&usqp=CAU" group-title="SANTA FE", CANAL 5 ALCORTA SANTA FE
-https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vkXZdKTUiY8/X_IMq18-gxI/AAAAAAAA82k/4X2wus-6Pu0jJHKYjD2w66TpPqVoRk_IwCK8BGAsYHg/s0/2021-01-03.png" group-title="SANTA FE", Link TV 
-https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.12informa.com.ar/wp-content/uploads/2020/07/logocanal12.png" group-title="SANTA FE", CANAL 12 VENADO TUERTO
-https://nd106.republicaservers.com/hls/diegologonitv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="SANTA FE", PLAY TELEVISION SANTA FE
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://nuevomundotv.com.ar/images/logonm.svg" group-title="SANTA FE", NUEVO MUNDO CARCARAÑA
-https://tecnica.nuevomundotv.com.ar:446/hls/canal10.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="ENTRE RIOS", 6 ENTRE RIOS TV
-https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.radiogualeguay.com.ar/img/AM.png" group-title="ENTRE RIOS", LT38 RADIO GUALEGUAY
-https://videostream.shockmedia.com.ar:19360/radiogualeguay/radiogualeguay.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="JUJUY", CANAL 2 JUJUY
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
