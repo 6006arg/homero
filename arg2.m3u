@@ -559,6 +559,8 @@ https://ythls.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU" group-title="ENTRE RIOS", CANAL 5 TV COLONIA AVELLANEDA ENTRE RIOS
+https://srv5.zcast.com.br/multimediosca/multimediosca/playlist.m3u8
 
 
 
@@ -600,6 +602,39 @@ https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517580078317776899/48wDIjEZ_400x400.jpg" group-title="MENDOZA", ACEQUIA TV
 https://ythls.onrender.com/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://surmedios.com/wp-content/uploads/2021/01/cropped-logosur5www.png" group-title="MENDOZA", SUR MEDIOS MENDOZA
+https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2751264928/0facb64f7c7468a07681c5f27874d9a4_400x400.png" group-title="MENDOZA", CANAL 8 VALLE DE UCO
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478000168016433152/2oEULfiP_400x400.png" group-title="MENDOZA", COOPE TV
+https://livedge-st1.video.bustream.com/coopetv/smil:rates.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318990468290646016/D65h3HYF_400x400.jpg" group-title="MENDOZA", JTA TV
+https://streaming.jtamendoza.com/hls/test_hd720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.unidiversidad.com.ar/img/home/footer/Uni_logo_footer.svg" group-title="MENDOZA", SEÑAL U
+https://tvd.uncu.edu.ar/memfs/eedea17f-5b9c-4b1e-a4e5-319146353a5f.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.otrasvocestv.com.ar/wp-content/uploads/2021/01/wprs.png" group-title="MENDOZA", OTRAS VOCES TV
+https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JBx_vll8WvdTTDiq-MvvZWMQ0Ky4DcbIq5iM4CwM95RSKpQBc-krcwQJzmvJGVfAZQ=w526-h296-rw" group-title="MENDOZA", MALBEC PLAY TV
+https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png" group-title="MENDOZA", KINGDOM TV HD  19.1  MENDOZA 
+https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://static.misionesonline.news/wp-content/uploads/2022/12/logomol-1-4-2.png" group-title="MISIONES", MISIONES ONLINE
@@ -794,35 +829,8 @@ https://stmv1.cnarlatam.com/cadenavivo/cadenavivo/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU" group-title="ENTRE RIOS", CANAL 5 TV COLONIA AVELLANEDA ENTRE RIOS
-https://srv5.zcast.com.br/multimediosca/multimediosca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
-https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://surmedios.com/wp-content/uploads/2021/01/cropped-logosur5www.png" group-title="MENDOZA", SUR MEDIOS MENDOZA
-https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2751264928/0facb64f7c7468a07681c5f27874d9a4_400x400.png" group-title="MENDOZA", CANAL 8 VALLE DE UCO
-https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478000168016433152/2oEULfiP_400x400.png" group-title="MENDOZA", COOPE TV
-https://livedge-st1.video.bustream.com/coopetv/smil:rates.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318990468290646016/D65h3HYF_400x400.jpg" group-title="MENDOZA", JTA TV
-https://streaming.jtamendoza.com/hls/test_hd720.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.unidiversidad.com.ar/img/home/footer/Uni_logo_footer.svg" group-title="MENDOZA", SEÑAL U
-https://tvd.uncu.edu.ar/memfs/eedea17f-5b9c-4b1e-a4e5-319146353a5f.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.otrasvocestv.com.ar/wp-content/uploads/2021/01/wprs.png" group-title="MENDOZA", OTRAS VOCES TV
-https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JBx_vll8WvdTTDiq-MvvZWMQ0Ky4DcbIq5iM4CwM95RSKpQBc-krcwQJzmvJGVfAZQ=w526-h296-rw" group-title="MENDOZA", MALBEC PLAY TV
-https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png" group-title="MENDOZA", KINGDOM TV HD  19.1  MENDOZA 
-https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpp.lapampa.gob.ar/images/LOGOS_SITIO_CANAL.png" group-title="LA PAMPA", TV PUBLICA PAMPEANA
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
