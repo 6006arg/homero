@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS DEPORTIVOS", ESPN
+
+https://1104-vos.dtvott.com/DASH/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="EVENTOS DEPORTIVOS", DIRECTV SPORTS
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
 
