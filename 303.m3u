@@ -1,11 +1,50 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS DEPORTIVOS", ESPN
-
-https://1104-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="EVENTOS DEPORTIVOS", DIRECTV SPORTS
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
+#EXTINF:-1,AXN HD
+http://206.1.95.15:8001/play/axn
+#EXTINF:-1,Arte 1 HD
+http://206.1.95.15:8001/play/arte1
+#EXTINF:-1,Canal Rural
+http://206.1.95.15:8001/play/canalrural
+#EXTINF:-1,Canal Sony HD
+http://206.1.95.15:8001/play/canalsony
+#EXTINF:-1,Discovery Channel HD
+http://206.1.95.15:8001/play/discoverychannel
+#EXTINF:-1,Discovery Kids HD
+http://206.1.95.15:8001/play/discoverykids
+#EXTINF:-1,Discovery Science HD
+http://206.1.95.15:8001/play/discoveryscience
+#EXTINF:-1,E! HD
+http://206.1.95.15:8001/play/e
+#EXTINF:-1,ESPN 2 HD
+http://206.1.95.15:8001/play/espn2
+#EXTINF:-1,ESPN HD
+http://206.1.95.15:8001/play/espn
+#EXTINF:-1,Food Network HD
+http://206.1.95.15:8001/play/foodnetwork
+#EXTINF:-1,GNT HD
+http://206.1.95.15:8001/play/gnt
+#EXTINF:-1,HGTV HD
+http://206.1.95.15:8001/play/hgtv
+#EXTINF:-1,History HD
+http://206.1.95.15:8001/play/history
+#EXTINF:-1,Lifetime HD
+http://206.1.95.15:8001/play/lifetime
+#EXTINF:-1,Multishow HD
+http://206.1.95.15:8001/play/multishow
+#EXTINF:-1,Nick Jr HD
+http://206.1.95.15:8001/play/nickjr
+#EXTINF:-1,Premiere 4 HD
+http://206.1.95.15:8001/play/premiere4
+#EXTINF:-1,SYFY HD
+http://206.1.95.15:8001/play/syfy
+#EXTINF:-1,Studio Universal HD
+http://206.1.95.15:8001/play/studiouniversal
+#EXTINF:-1,TLC HD
+http://206.1.95.15:8001/play/tlc
+#EXTINF:-1,Warner Channel HD
+http://206.1.95.15:8001/play/warnerchannel
+#EXTINF:-1,Woohoo HD
+http://206.1.95.15:8001/play/woohoo
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/612.png" group-title="EVENTOS DEPORTIVOS", DIRECTV SPORTS 2
 http://190.83.60.34:1414/play/a06c
