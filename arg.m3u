@@ -307,13 +307,6 @@ http://186.101.207.117:7654/play/a0cw/index.m3u8
 http://186.101.207.117:7654/play/a0c2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 1 MX
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 2 MX
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 3 MX
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="EVENTOS DEPORTIVOS", Win Sports+
