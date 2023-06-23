@@ -1,7 +1,7 @@
 #EXTM3U    
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/751/856/png-transparent-three-black-cats-illustration-black-cat-kitten-halloween-witch-cat-cat-like-mammal-carnivoran-orange-thumbnail.png" group-title="FUTBOL ARG", LOS 3 GATOS SPORTS +
-http://187.102.208.155:8000/play/a05x/index.m3u8
+http://45.191.234.189:15082/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="FUTBOL ARG", TyC SPORTS 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
@@ -261,13 +261,13 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://181.78.75.11:9500/play/a03c/index.m3u8
+http://186.101.207.117:7654/play/a0bz/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://181.78.75.11:9500/play/a03c/index.m3u8
+http://45.191.234.189:15082/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
-http://200.41.79.165:8000/play/a05s/index.m3u8
+http://45.191.234.189:15082/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
 http://181.78.1.217:8146/play/a0cg/index.m3u8
@@ -275,39 +275,46 @@ http://181.78.1.217:8146/play/a0cg/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
 http://181.224.201.34:5577/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
-http://181.78.75.11:9500/play/a029/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="EVENTOS DEPORTIVOS", ESPN 3
-http://181.78.75.11:9500/play/a02e/index.m3u8
+http://186.101.207.117:7654/play/a0c1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="EVENTOS DEPORTIVOS", ESPN 3
-http://187.102.208.155:8000/play/a058/index.m3u8
+http://186.101.207.117:7654/play/a0c0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="EVENTOS DEPORTIVOS", ESPN 3
+http://45.191.234.189:15082/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="EVENTOS DEPORTIVOS", ESPN 4 
 http://186.31.37.98:8000/play/a008/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="EVENTOS DEPORTIVOS", ESPN 4 
-http://200.41.79.165:8000/play/a05r/index.m3u8
+http://186.101.207.117:7654/play/a0bu/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="EVENTOS DEPORTIVOS", ESPN 4 
+http://45.191.234.189:15082/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_Fox_Sports_Argentina_2023.png/577px-Logo_Fox_Sports_Argentina_2023.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 
-http://181.115.238.188:6100/play/a09v
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 2
-http://181.78.75.11:9500/play/a02j/index.m3u8
+http://186.101.207.117:7654/play/a0cw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/323px-Fox_Sports_3_Argentina_2023.svg.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 3
-http://181.78.75.11:9500/play/a02f/index.m3u8
+http://186.101.207.117:7654/play/a0c2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 1 MX
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 2 MX
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 3 MX
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd  
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="EVENTOS DEPORTIVOS", Win Sports+
 http://190.27.253.211:8000/play/a07g/index.m3u8
