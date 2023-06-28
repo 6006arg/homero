@@ -548,7 +548,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0154
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0155
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
 https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
@@ -708,7 +708,7 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065936054329507842/qisXOk-J_400x400.jpg" group-title="SALTA", TELEFE SALTA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0238
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0240
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065936054329507842/qisXOk-J_400x400.jpg" group-title="SALTA", TELEFE SALTA
 https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
@@ -761,13 +761,13 @@ https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
 
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0290
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0292
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
 https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0296
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0298
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
@@ -985,7 +985,7 @@ https://canalsj.kozow.com/canal40/index.m3u8
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--XAMA.png" group-title="SAN JUAN", XAMA UNSJ SAN JUAN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0268
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0270
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="CORRIENTES", 13 MAX CORRIENTES
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
@@ -1419,6 +1419,9 @@ https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://diariosanrafael.com.ar/wp-content/uploads/2021/08/logo_radio_dsr.svg" group-title="MENDOZA", RADIO VOS 94.5 FM SAN RAFAEL
 https://5f700d5b2c46f.streamlock.net/fmvos/fmvos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.juninmendoza.gov.ar/wp-content/uploads/junin-municipalidad-logo-2020.png" group-title="MENDOZA", FM AMISTAD 87.9 FM
+https://5f700d5b2c46f.streamlock.net/fmjardin/fmjardin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="CORDOBA", FM COMUNICAR 90.7 FM - COLONIA CAROYA
 https://panel.dattalive.com/canal907/canal907/playlist.m3u8
@@ -1924,7 +1927,6 @@ https://ythls.onrender.com/channel/UC-K0CmTEnwR-jc57ZnpVLYw.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPbKE49pR7iYQ6Cta7P-9ZANdYI21Xfc0KfwbSjSg=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Suquía
 https://ythls.onrender.com/channel/UCcl6jt4C1zpWjYsOHhDjNhQ.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kcEr4FvNet3guqB0uUJn6n2zYEzGBb44gTfY8THKzTjzW-IIYptRzsmtNv6oa0LSQh-BnafOOw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Fm Fenix 100.3 de Martinez
 https://ythls.onrender.com/channel/UCR41kqe76iwVWMIekpWGfCg.m3u8
 
@@ -1935,10 +1937,14 @@ https://ythls.onrender.com/channel/UCy3MW5Goy1epjhvtjalzbKg.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", El Observador 107.9
 https://ythls.onrender.com/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3GLS4NTTBccaGsSAiMVNhEGYl8eujox6NPU0ySLJKNM6kMs28ydFP05ahecAZGAjyx7p3o7Zzw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Radio Argentina AM570
+https://ythls.onrender.com/channel/UCmxhAPHuA0NmseOhrUyE_3Q.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1VknAt8iHQ2sB1IiWbXeM5W-MLTB8wWdr09_FHOi7y80kXTUX6_-U3Z9YRHWYOjSMa-5jAfaZg=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", GELATINA
+https://ythls.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/b4UtPrafO3JwncEL195MmubWpV6PqHXFW5NkLsfk4-EzGCKvdhO8Yn1LGW0yza9-_XVDSs9M7M8=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", BLENDER
+https://ythls.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
 
 
 
@@ -2024,10 +2030,9 @@ https://sf1s2.fullcam.me/6542b1f00867.m3u8
 #EXTINF:-1 tvg-logo="https://medpinamar.com.ar/med_contenido/uploads/2018/11/logomed-2-300x230.png" group-title="WEB CAM Y CLIMA", PINAMAR MED 95.9 FM
 https://stmvideo2.livecastv.com/medpinamar/medpinamar/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUKVAYKPRYrumZZMCDkUyy1Rr1gMzpKf9GR8ib8=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", RESISTENCIA CHACO
 https://ythls.onrender.com/channel/UCftan3cVkKKfxXpRN9JUX7A.m3u8
+
 
 
 
