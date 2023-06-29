@@ -298,13 +298,16 @@ http://186.101.207.117:7654/play/a0bu/index.m3u8
 http://45.191.234.189:15082/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_Fox_Sports_Argentina_2023.png/577px-Logo_Fox_Sports_Argentina_2023.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 
+http://200.24.159.165:4848/play/a03l/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_Fox_Sports_Argentina_2023.png/577px-Logo_Fox_Sports_Argentina_2023.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 
+http://190.43.92.175:8989/play/a0xp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 2
-http://186.101.207.117:7654/play/a0cw/index.m3u8
+http://201.219.246.114:7000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/323px-Fox_Sports_3_Argentina_2023.svg.png" group-title="EVENTOS DEPORTIVOS", FOX SPORTS 3
-http://186.101.207.117:7654/play/a0c2/index.m3u8
+http://201.219.246.114:7000/play/a01p/index.m3u8
 
 
 
